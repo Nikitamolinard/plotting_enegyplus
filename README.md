@@ -1,4 +1,19 @@
 
-# Haikus for Codespaces
+The python program is used to plot energy consumption and carbon emission montly based on Meter.CSV file from Energy plus Output. 
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+The following packages should be donwloaded in order to run the program :
+	 pandas
+	 numpy
+	 matplotlib.pyplot 
+	 os
+	 sys
+	tkinter
+	PIL
+
+Energy Plus version 9.4 is recommended.
+The energy consumption should be calculated monthly as an output parameter. 
+
+NMO 09/2022
+
+	
+
