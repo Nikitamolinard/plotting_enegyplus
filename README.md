@@ -13,6 +13,9 @@ The following packages should be donwloaded in order to run the program :
 Energy Plus version 9.4 is recommended.
 The energy consumption should be calculated monthly as an output parameter. 
 
+The output required for the comfort zone are Fanger comfort zone. 
+See the file testcomfort as an exemple.
+
 NMO 09/2022
 
 	
